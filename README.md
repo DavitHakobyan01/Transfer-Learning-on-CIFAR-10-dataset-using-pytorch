@@ -1,5 +1,7 @@
 # Transfer-Learning-on-CIFAR-10-dataset-using-pytorch
 Transfer Learning on CIFAR-10 dataset using pytorch and pretrained Alex-Net
+
+
 – Download the CIFAR10 Train and Test Datasets (you need to choose an appropriate
 transform!);
 – Take the first 10000 elements in the Train Dataset and the 2000 elements in the
